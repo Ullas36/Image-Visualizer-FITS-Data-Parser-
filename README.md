@@ -59,10 +59,6 @@ Run [`gen_all.py`](file:///f:/comsic_vizualization/first_example/gen_all.py) to 
 python gen_all.py
 ```
 
-> [!WARNING]
-> **Configuration Path Warning:** In [`gen_all.py`](file:///f:/comsic_vizualization/first_example/gen_all.py), the base path is hardcoded as `F:\comsic_classifier\hubble_data\mastDownload\HST`. You will need to edit line 52 to point to your local directory (e.g., `F:\comsic_vizualization\hubble_data\mastDownload\HST` or a relative path) for it to find the downloaded files.
-
----
 
 ## 🎨 Wavelength-to-Color Mapping
 
